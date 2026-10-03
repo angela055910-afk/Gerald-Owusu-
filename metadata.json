@@ -1,0 +1,6 @@
+{
+  "name": "Jungle",
+  "description": "WhatsApp-style encrypted messaging and calling platform with EchoStream AI assistant, group chats, status updates, and media sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
